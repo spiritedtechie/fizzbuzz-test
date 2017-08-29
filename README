@@ -1,6 +1,5 @@
 Pair programming exercise for Java, adapted from the Equal Experts Pair Programming exercise for Scala.
 
-
 # Part 1:
 
 Write some code that prints out the following for a contiguous range of numbers:
